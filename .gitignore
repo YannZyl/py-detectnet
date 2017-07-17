@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+files/yolo.weights
+files/yolo_yann_89000.weights
 # C extensions
 *.so
 
