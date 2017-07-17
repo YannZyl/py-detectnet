@@ -1,8 +1,9 @@
 # py-detectnet-master
 
-Yolov2 is a good object detect framework. It has been introduced in research [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf)[YOLOv2](https://arxiv.org/abs/1612.08242) [GitHub](https://github.com/thtrieu/darkflow)
+Yolov2 is a good object detect framework. It has been introduced in research [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf), [YOLOv2](https://arxiv.org/abs/1612.08242), [GitHub](https://github.com/thtrieu/darkflow)
 
 There is a image detect using yolov2 framework
+
 ![image](https://github.com/YannZyl/py-detectnet-master/blob/master/output/2008_004040.jpg '2008_004040.jpg')
 
 # Demo
