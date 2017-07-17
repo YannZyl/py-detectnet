@@ -23,7 +23,7 @@ args = dict({
 
 And then run **main.py** with
 ```bash
-python main
+python main.py
 ```
 
 # Train
