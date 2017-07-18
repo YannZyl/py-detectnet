@@ -28,7 +28,7 @@ python main.py
 
 # Train
 
-To accelated train state, we use darknet(c++) ti train out model, please see [here](https://pjreddie.com/darknet/). You should design your own model and after training, you can perform our framework to detect image, because it is flexible than c++ version. 
+To accelated train state, we use darknet(c++) to train our model, please see [here](https://pjreddie.com/darknet/). You should design your own model and after training, you can perform our framework to detect image, because it is more flexible than c++ version. 
 
 
 
